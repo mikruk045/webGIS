@@ -10,7 +10,6 @@ body {
 .containerRight {
     display: grid;
     grid-template-columns: 80% auto;
-    height: 100%;
 }
 .container {
     display: grid;
